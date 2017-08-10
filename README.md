@@ -33,7 +33,7 @@ Te esperamos!
 * Twitter: https://twitter.com/juncotic
 * Google+: https://plus.google.com/+Juncotic
 * Youtube: https://www.youtube.com/c/juncotic?sub_confirmation=1
-* Telegram: https:/t.me/juncotic
+* Telegram: https://t.me/juncotic
 
 * Info: info@juncotic.com
 
