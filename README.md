@@ -1,7 +1,25 @@
 # JuncoTIC Blog
 ## Ejemplo de un verificador de flags de filesystem en Linux.
 ## En este caso: O_DIRECT
-Códigos y contenido adicional de artículos de blog
+### Códigos y contenido adicional de artículos de blog
+
+---
+## Credits: 
+
+ * Author: Diego Cordoba - [@d1cor](https://twitter.com/d1cor), based on [@linuxito](https://linuxito.com) initial version.
+ * Test if a filesystem supports O_DIRECT flag
+ * Usage: ./progname path_file
+ * where path_file is a file stored in a convinient filesystem.
+
+
+## Compilacion:
+
+```git clone https://github.com/JuncoTIC/test_odirect.git```
+
+```
+cd test_odirect/
+gcc test_odirect.c -o test_odirect
+```
 
 Desde ya quedas invitado a sumarte a la comunidad #JuncoTIC!
 Síguenos en nuestras redes sociales y mantente informado sobre nuestros últimos lanzamientos y capacitaciones.
@@ -21,20 +39,4 @@ Te esperamos!
 Contamos con tu presencia en nuestras iniciativas!
 ¡Muchas gracias!
 
----
-## Credits: 
 
- * Author: Diego Cordoba - [@d1cor](https://twitter.com/d1cor), based on [@linuxito](https://linuxito.com) initial version.
- * Test if a filesystem supports O_DIRECT flag
- * Usage: ./progname path_file
- * where path_file is a file stored in a convinient filesystem.
-
-
-## Compilacion:
-
-```git clone https://github.com/JuncoTIC/test_odirect.git```
-
-```
-cd test_odirect/
-gcc test_odirect.c -o test_odirect
-```
