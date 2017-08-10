@@ -20,7 +20,7 @@
 cd test_odirect/
 gcc test_odirect.c -o test_odirect
 ```
-
+### -------------------------------------------------------------------------------------
 Desde ya quedas invitado a sumarte a la comunidad #JuncoTIC!
 Síguenos en nuestras redes sociales y mantente informado sobre nuestros últimos lanzamientos y capacitaciones.
 
