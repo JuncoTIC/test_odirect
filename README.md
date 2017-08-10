@@ -1,7 +1,6 @@
 # JuncoTIC Blog
 ## Ejemplo de un verificador de flags de filesystem en Linux.
 ## En este caso: O_DIRECT
-### Códigos y contenido adicional de artículos de blog
 
 ---
 ## Credits: 
