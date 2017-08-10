@@ -3,10 +3,6 @@
 ## En este caso: O_DIRECT
 Códigos y contenido adicional de artículos de blog
 
-Este código completa la info expuesta en nuestro artículo del Blog.
-
-Visite el artículo original aquí: https://juncotic.com/iniparser-una-lib-para-parsing-de-ini-c
-
 Desde ya quedas invitado a sumarte a la comunidad #JuncoTIC!
 Síguenos en nuestras redes sociales y mantente informado sobre nuestros últimos lanzamientos y capacitaciones.
 
