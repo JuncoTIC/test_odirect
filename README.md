@@ -26,6 +26,15 @@ Contamos con tu presencia en nuestras iniciativas!
 ¡Muchas gracias!
 
 ---
+/*
+ * Author: Diego Cordoba - @d1cor, based on linuxito.com initial version.
+ * Test if a filesystem supports O_DIRECT flag
+ * Usage: ./progname path_file
+ * where path_file is a file stored in a convinient filesystem.
+ * Compilation: gcc test_odirect.c -o test_odirect
+*/
+
+
 ## Compilacion:
 
 ```git clone https://github.com/JuncoTIC/test_odirect.git```
