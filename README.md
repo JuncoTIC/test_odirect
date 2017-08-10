@@ -28,7 +28,7 @@ Contamos con tu presencia en nuestras iniciativas!
 ---
 ## Credits: 
 
- * Author: Diego Cordoba - @d1cor, based on [@linuxito](linuxito.com) initial version.
+ * Author: Diego Cordoba - @d1cor, based on [@linuxito](https://linuxito.com) initial version.
  * Test if a filesystem supports O_DIRECT flag
  * Usage: ./progname path_file
  * where path_file is a file stored in a convinient filesystem.
